@@ -1,5 +1,5 @@
 <?php 
 
-echo="This is a new PHP file.";
+echo "This is a new PHP file.";
 
 ?>
